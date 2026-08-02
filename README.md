@@ -117,18 +117,12 @@ Most of what I build starts as a design decision, not a technical one.
 
 <div align="center">
 
-<img width="65%" src="https://github-readme-stats.vercel.app/api?username=anshuman156&show_icons=true&hide_border=true&hide_title=true&bg_color=0A0A0A&title_color=A78BFA&icon_color=8B5CF6&text_color=E5E5E5" alt="GitHub stats" />
-
+<img width="65%" src="https://custom-stats-theta.vercel.app/api/stats?username=Anshuman615" alt="GitHub stats" />
 <br /><br />
-
-<img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshuman156&layout=compact&hide_border=true&hide_title=true&bg_color=0A0A0A&title_color=A78BFA&text_color=E5E5E5&langs_count=8" alt="Top languages" />
-
+<img width="65%" src="https://custom-stats-theta.vercel.app/api/top-langs?username=Anshuman615" alt="Top languages" />
 <br /><br />
-
-<img width="65%" src="https://streak-stats.demolab.com?user=anshuman156&hide_border=true&background=0A0A0A&stroke=0A0A0A&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideNums=E5E5E5&currStreakNum=E5E5E5&sideLabels=8A8792&dates=5C5966" alt="GitHub streak" />
-
+<img width="65%" src="https://streak-stats.demolab.com?user=Anshuman615&hide_border=true&background=0A0A0A&stroke=0A0A0A&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideNums=E5E5E5&currStreakNum=E5E5E5&sideLabels=8A8792&dates=5C5966" alt="GitHub streak" />
 </div>
-
 <br />
 
 <div align="center"><img src="./assets/divider.svg" width="60" alt="" /></div>
