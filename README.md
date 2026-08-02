@@ -1,7 +1,6 @@
 <!--
   README.md — Anshuman Panda
-  Replace GH_USERNAME below with your actual GitHub username wherever it appears
-  (currently set to: anshuman156).
+  GitHub username used throughout: Anshuman615
 -->
 
 <div align="center">
@@ -60,24 +59,27 @@ Most of what I build starts as a design decision, not a technical one.
 
 <h2 align="center">Skills</h2>
 
-<table width="100%">
-  <tr>
-    <td width="30%"><strong>Languages</strong></td>
-    <td width="70%">JavaScript, TypeScript, Python</td>
-  </tr>
-  <tr>
-    <td width="30%"><strong>Frontend</strong></td>
-    <td width="70%">React, HTML, CSS, Tailwind CSS</td>
-  </tr>
-  <tr>
-    <td width="30%"><strong>Backend</strong></td>
-    <td width="70%">Node.js, Express, MongoDB</td>
-  </tr>
-  <tr>
-    <td width="30%"><strong>Tools</strong></td>
-    <td width="70%">Git, GitHub, Figma</td>
-  </tr>
-</table>
+<div align="center">
+
+<p><sub>LANGUAGES</sub></p>
+<img src="https://skillicons.dev/icons?i=js,ts,py&theme=dark" alt="Languages" />
+
+<br /><br />
+
+<p><sub>FRONTEND</sub></p>
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind&theme=dark" alt="Frontend" />
+
+<br /><br />
+
+<p><sub>BACKEND</sub></p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb&theme=dark" alt="Backend" />
+
+<br /><br />
+
+<p><sub>TOOLS</sub></p>
+<img src="https://skillicons.dev/icons?i=git,github,figma&theme=dark" alt="Tools" />
+
+</div>
 
 <br />
 
@@ -123,6 +125,7 @@ Most of what I build starts as a design decision, not a technical one.
 <br /><br />
 <img width="65%" src="https://streak-stats.demolab.com?user=Anshuman615&hide_border=true&background=0A0A0A&stroke=0A0A0A&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA&sideNums=E5E5E5&currStreakNum=E5E5E5&sideLabels=8A8792&dates=5C5966" alt="GitHub streak" />
 </div>
+
 <br />
 
 <div align="center"><img src="./assets/divider.svg" width="60" alt="" /></div>
@@ -136,9 +139,9 @@ Most of what I build starts as a design decision, not a technical one.
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshuman156/anshuman156/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshuman156/anshuman156/output/snake-light.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/anshuman156/anshuman156/output/snake-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Anshuman615/Anshuman615/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Anshuman615/Anshuman615/output/snake-light.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Anshuman615/Anshuman615/output/snake-dark.svg" width="100%" />
 </picture>
 
 </div>
@@ -154,9 +157,9 @@ Most of what I build starts as a design decision, not a technical one.
 <p align="center">
 <a href="mailto:anshumanpanda744@gmail.com">Email</a>
 &nbsp;&#183;&nbsp;
-<a href="https://www.linkedin.com/in/anshuman156/">LinkedIn</a>
+<a href="https://www.linkedin.com/in/anshumanpanda156/">LinkedIn</a>
 &nbsp;&#183;&nbsp;
-<a href="https://github.com/anshuman156">GitHub</a>
+<a href="https://github.com/Anshuman615">GitHub</a>
 </p>
 
 <br />
