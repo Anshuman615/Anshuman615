@@ -1,0 +1,17 @@
+<svg width="1000" height="120" viewBox="0 0 1000 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <g stroke="#A78BFA" stroke-width="1" opacity="0.4">
+    <path d="M40 20 H76" />
+    <path d="M40 20 V56" />
+    <path d="M960 100 H924" />
+    <path d="M960 100 V64" />
+  </g>
+
+  <line x1="468" y1="34" x2="532" y2="34" stroke="#A78BFA" stroke-width="2" stroke-linecap="round"/>
+
+  <text x="500" y="64" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="13" letter-spacing="2.5" fill="#C9C7D1">
+    ANSHUMAN PANDA
+  </text>
+  <text x="500" y="86" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="11" letter-spacing="0.5" fill="#5C5966">
+    Building software with purpose.
+  </text>
+</svg>
